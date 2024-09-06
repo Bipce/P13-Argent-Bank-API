@@ -11,7 +11,8 @@ Argent Bank uses the following tech stack:
 - [Node.js v12](https://nodejs.org/en/)
 - [MongoDB Community Server](https://www.mongodb.com/try/download/community)
 
-Please make sure you have the right versions and download both packages. You can verify this by using the following commands in your terminal:
+Please make sure you have the right versions and download both packages. You can verify this by using the following
+commands in your terminal:
 
 ```bash
 # Check Node.js version
@@ -61,12 +62,15 @@ Once you run the `populate-db` script, you should have two users in your databas
 
 ## API Documentation
 
-To learn more about how the API works, once you have started your local environment, you can visit: http://localhost:3001/api-docs
+To learn more about how the API works, once you have started your local environment, you can
+visit: http://localhost:3001/api-docs
 
 ## Design Assets
 
 Static HTML and CSS has been created for most of the site and is located in: `/designs`.
 
-For some of the dynamic features, like toggling user editing, there is a mock-up for it in `/designs/wireframes/edit-user-name.png`.
+For some of the dynamic features, like toggling user editing, there is a mock-up for it in
+`/designs/wireframes/edit-user-name.png`.
 
-And for the API model that you will be proposing for transactitons, the wireframe can be found in `/designs/wireframes/transactions.png`.
+And for the API model that you will be proposing for transactitons, the wireframe can be found in
+`/designs/wireframes/transactions.png`.
